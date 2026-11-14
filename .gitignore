@@ -1,0 +1,14 @@
+node_modules/
+dist/
+output/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
+accounts.json
+accounts.json.*
+*.key
+*.pem
+*.pfx

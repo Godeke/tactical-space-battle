@@ -1,0 +1,89 @@
+{
+  "sourceRepository": "https://github.com/Godeke/avt",
+  "sourceHead": "a62d5754270ca3beab5732a01386fd7a3179b321",
+  "sourcePath": "apps/vector",
+  "sourceWasUntracked": true,
+  "capturedDate": "2026-11-14",
+  "files": [
+    {
+      "path": "build.mjs",
+      "sha256": "2dc6a8afd8209b9d7cb853dd2212cd761cff96d67e46d2cdd9fc351688e49b84"
+    },
+    {
+      "path": "client/index.html",
+      "sha256": "70622f7933330d278b6d0faf14027c918f4a58f5d0f1343564856193dbc8beab"
+    },
+    {
+      "path": "client/main.tsx",
+      "sha256": "a0c1bc4727eded93db69d1f77c294ec6aaa87f112efb521cdb5ddc00c9b901b8"
+    },
+    {
+      "path": "client/scene.tsx",
+      "sha256": "89dbf4deef2677e1b72c78ee1dd5360fbb9c0c9338fca601177e07d88356a353"
+    },
+    {
+      "path": "client/style.css",
+      "sha256": "c46aeefea11bf4b0d0275e32d90a14b2c48a24cfa3040350dc27dd5225db01c7"
+    },
+    {
+      "path": "core/content.ts",
+      "sha256": "d31aff95732fd884c755b3636c3e2689e2f7c5750033f125af18f32efed4f750"
+    },
+    {
+      "path": "core/math.ts",
+      "sha256": "efab65c2705a69725245ddf651689fdb4ad0353005cd7ed1b994ae35f12327bb"
+    },
+    {
+      "path": "core/simulation.ts",
+      "sha256": "30d62f68d690cf73d95d3a2fc3e304c6302b6a4ab1dde57b16a2c0f9e17e059d"
+    },
+    {
+      "path": "core/types.ts",
+      "sha256": "3e89fc49f1a1a15383dbae540d9727c15a2f5d4c0fed1166852119fb556e60ba"
+    },
+    {
+      "path": "package.json",
+      "sha256": "ae130d0c702a1b64c9d5d582dbcf7165071740fd2b477ea0fd2fd75927405385"
+    },
+    {
+      "path": "README.md",
+      "sha256": "78c1f80d3edc2124449941ba1b216590338be7166de78ccad79eb9f74c085b4e"
+    },
+    {
+      "path": "server/app.ts",
+      "sha256": "696b4e8eee210eb92f874e120131e2635615d16b7e87fadcb454ef2a0f56b15e"
+    },
+    {
+      "path": "server/main.ts",
+      "sha256": "b907ea37e70ea620e4d546caf3ac6133f14df0a15778074fc419ad4753638b84"
+    },
+    {
+      "path": "server/store.ts",
+      "sha256": "56b187929947981f5352cb0b8ff38872d4146355f1bdd24e09737509536e7f36"
+    },
+    {
+      "path": "test/browser.mjs",
+      "sha256": "5a4a35b5b4718e70605def3802d9fbe2ac81bce9371d101fc3ac4297b8d0474c"
+    },
+    {
+      "path": "test/fixture-server.ts",
+      "sha256": "8f2509c641fe3c16d5b5c254b8c5498d2ea6cd98977480b2fd5e232b7c729ce5"
+    },
+    {
+      "path": "test/http.test.ts",
+      "sha256": "bbede259d4b263594a8dc28ad8cd433508073c28b4e5f7e29066811be8beea45"
+    },
+    {
+      "path": "test/simulation.test.ts",
+      "sha256": "ac7a84a74114ef3c66877c0a8ec54a5a828bf722ec8d07d2214395fffd81fd67"
+    },
+    {
+      "path": "test/store.test.ts",
+      "sha256": "33cbfbbd4a28009287570e676a7b9faf1fa690b9c5bcad4253727d0bf8b9c311"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "d0820abc3e90589366f611fa99aadb59adcacaf5dd7bf394d82da6423d15a333"
+    }
+  ]
+}
