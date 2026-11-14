@@ -4,6 +4,8 @@ An independent browser game about commanding small fleets through continuous 3D 
 
 **[Read the design document](docs/DESIGN.md)** for the new focus: original ship systems, model-based weapon mounts and obstruction, and physically consistent propulsion, rotation, energy and heat. The imported playable baseline still uses simplified firing cones, spherical colliders and abstract damage. Model-based arcs are the next implementation milestone, not a feature claimed by this extraction.
 
+The core-combat target also requires guided missiles, decoys, electronic warfare/counter-countermeasures, and full pitch/yaw/roll control. These are not implemented yet. See the **[feature-parity inventory](docs/FEATURE-PARITY.md)** for what exists today, what replaces the tabletop abstractions, and the completion gate.
+
 ## Run locally
 
 Use Node 24.19 or newer with native TypeScript support and npm 12.0.2 or newer. The tested development version is recorded in `.node-version`.
